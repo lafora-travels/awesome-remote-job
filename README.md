@@ -562,6 +562,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### HR
   1. [Remoteteam.com](https://www.remoteteam.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
+  2. [LáFora](https://www.lafora.com) – Company & team retreat organisation for remote teams.
 
 #### Communication
   1. [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
